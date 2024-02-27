@@ -1,2 +1,2 @@
-hi i am adding this line now..
+this is master branch line..
 this is java class which contains string related functions..
